@@ -39,13 +39,13 @@ module tb_alu;
 		B = 9;
 
 		#15;
-		$display(A, "   +", B, "   =", out);
+		$display(A, "   +", B, "   =", out, "; neg = ", neg);
 
 		
 		A = 80;
 		B = 90;
 		#15;
-		$display(A, "   +", B, "   =", out);
+		$display(A, "   +", B, "   =", out, "; neg = ", neg);
 
 		
 		$display("Testing Subtraction");
@@ -54,13 +54,14 @@ module tb_alu;
 		B = 7;
 		
 		#15;
-		$display(A, "   -", B, "   =", out);		
+		$display(A, "   -", B, "   =", out, "; neg = ", neg);		
 		
 		A = 9;
 		B = 70;
 		
 		#15;
-		$display(A, "   -", B, "   =", out);	end
+		$display(A, "   -", B, "   =", out, "; neg = ", neg);
+	end
 
 
 

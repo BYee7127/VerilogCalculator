@@ -7,113 +7,160 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dD:/quartus/finalProject/simulation/modelsim
+Z0 dA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/simulation/modelsim
 valu
-Z1 !s110 1667458798
+Z1 !s110 1669952160
 !i10b 1
-!s100 A[Fh:7khS;kbaDhcHd_e:3
-Iz0bFldcRT9L[c4zEj=a7S3
+!s100 @eo8@LGCBN[3M`]m9]C?a2
+IcRJbMzVVUDGj[L<]HhKk>3
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1667457872
-8D:/quartus/finalProject/alu.v
-FD:/quartus/finalProject/alu.v
-L0 16
+w1669950946
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/alu.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/alu.v
+L0 15
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1667458798.000000
-Z5 !s107 D:/quartus/finalProject/tb_alu.v|D:/quartus/finalProject/alu.v|
-Z6 !s90 -reportprogress|300|-work|work|D:/quartus/finalProject/alu.v|D:/quartus/finalProject/tb_alu.v|
+Z4 !s108 1669952160.000000
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/alu.v|
 !i113 1
-Z7 o-work work
-Z8 tCvgOpt 0
-vdatapath
-Z9 !s110 1667458781
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject
+Z7 tCvgOpt 0
+vdataPath
+Z8 !s110 1669952161
 !i10b 1
-!s100 JaC3_QBddL]0>UAZ3VY5I1
-I8?HZJH]]X;W1camagRQ9g2
+!s100 2K[JUl64:gaMKBZEfgW;33
+IE2NgKdND^^ToU1k1Cf61X2
 R2
 R0
-w1667455095
-8D:/quartus/finalProject/datapath.v
-FD:/quartus/finalProject/datapath.v
+w1669781958
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/datapath.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/datapath.v
 L0 14
 R3
 r1
 !s85 0
 31
-Z10 !s108 1667458781.000000
-!s107 D:/quartus/finalProject/datapath.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/quartus/finalProject|D:/quartus/finalProject/datapath.v|
+Z9 !s108 1669952161.000000
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/datapath.v|
 !i113 1
-Z11 o-vlog01compat -work work
-Z12 !s92 -vlog01compat -work work +incdir+D:/quartus/finalProject
-R8
+R5
+R6
+R7
+ndata@path
 vfinalProject
-R9
-!i10b 1
-!s100 b4KQ^n96QaC4U``M483dR3
-IV=S[74Wmhgfcz`7V<2H6H2
-R2
-R0
-w1667455185
-8D:/quartus/finalProject/finalProject.v
-FD:/quartus/finalProject/finalProject.v
-L0 21
-R3
-r1
-!s85 0
-31
-R10
-!s107 D:/quartus/finalProject/finalProject.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/quartus/finalProject|D:/quartus/finalProject/finalProject.v|
-!i113 1
-R11
-R12
-R8
-nfinal@project
-vprocessor
-R9
-!i10b 1
-!s100 V72Zh3aZ?k0`<[8MMjHhc1
-IYTL5FeZS^66==l[N8^U@33
-R2
-R0
-w1667455105
-8D:/quartus/finalProject/processor.v
-FD:/quartus/finalProject/processor.v
-L0 7
-R3
-r1
-!s85 0
-31
-R10
-!s107 D:/quartus/finalProject/processor.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/quartus/finalProject|D:/quartus/finalProject/processor.v|
-!i113 1
-R11
-R12
-R8
-vtb_alu
 R1
 !i10b 1
-!s100 Y_@TVE9PTIbA^oej2z4=C1
-I9=gFka:c=VL^fn13oJK`d2
+!s100 oFbO992;9lBzmXRzlZ]Al3
+Id4h`RRJj`>k>0==Ac0ReK3
 R2
 R0
-w1667458581
-8D:/quartus/finalProject/tb_alu.v
-FD:/quartus/finalProject/tb_alu.v
-L0 4
+w1669765254
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/finalProject.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/finalProject.v
+L0 16
 R3
 r1
 !s85 0
 31
 R4
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/finalProject.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/finalProject.v|
+!i113 1
 R5
 R6
-!i113 1
 R7
+nfinal@project
+vFSM
+!s110 1669953762
+!i10b 1
+!s100 4AN5NlHVH:CA?^Qoa]<?U1
+IjfM8PCZQANhGzc3e5DZSl1
+R2
+R0
+w1669944700
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/FSM.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/FSM.v
+L0 13
+R3
+r1
+!s85 0
+31
+!s108 1669953762.000000
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/FSM.v|
+!s90 -reportprogress|300|-work|work|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/FSM.v|
+!i113 1
+Z10 o-work work
+R7
+n@f@s@m
+vMemory
+R1
+!i10b 1
+!s100 66T]aOi260Q4?oORd6Qf;2
+I1HTB0m^@;:M;M2m1mWz=G3
+R2
+R0
+Z11 w1669765255
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/memory.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/memory.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/memory.v|
+!i113 1
+R5
+R6
+R7
+n@memory
+vregfile
 R8
+!i10b 1
+!s100 mchTH6J8Z[zEH<zIY`@WA3
+IPRkcSIbLiJCQE[L7Dm=_<0
+R2
+R0
+R11
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/regfile.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/regfile.v
+L0 10
+R3
+r1
+!s85 0
+31
+R9
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/regfile.v|
+!i113 1
+R5
+R6
+R7
+vtb_alu
+!s110 1669952443
+!i10b 1
+!s100 ZZBIde;dl76GHo4e1`E103
+IRRTKHk]14XEmQLRFi7;5l3
+R2
+R0
+w1669952433
+8A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/tb_alu.v
+FA:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/tb_alu.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1669952443.000000
+!s107 A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/tb_alu.v|
+!s90 -reportprogress|300|-work|work|A:/BeverlyPC/Documents/SetsunaFolder/School/CS5710/VerilogCalculator/finalProject/tb_alu.v|
+!i113 1
+R10
+R7

@@ -12,6 +12,7 @@
 
 module FSM(clk, reset, instr, regwrite, wa, aluop, we_a,
 	 LD_mux_en_a, pc_en, ld_pc_en,pc_mux, ra1, ra2, wr_pc);
+	 
 	input clk, reset;
 	input [15:0] instr;
 
@@ -23,7 +24,6 @@ module FSM(clk, reset, instr, regwrite, wa, aluop, we_a,
 
 	reg [3:0] state, next_state;
 	reg [15:0] inst;
-
 
 
 	//parameter start = 4'b0010;

@@ -1,5 +1,5 @@
 Flow report for finalProject
-Sat Nov 19 19:04:54 2022
+Thu Dec 01 21:26:53 2022
 Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
 
 
@@ -40,7 +40,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------------------------------------------------+
 ; Flow Summary                                                                  ;
 +---------------------------------+---------------------------------------------+
-; Flow Status                     ; Successful - Sat Nov 19 19:04:54 2022       ;
+; Flow Status                     ; Successful - Thu Dec 01 21:26:53 2022       ;
 ; Quartus Prime Version           ; 18.0.0 Build 614 04/24/2018 SJ Lite Edition ;
 ; Revision Name                   ; finalProject                                ;
 ; Top-level Entity Name           ; finalProject                                ;
@@ -49,7 +49,7 @@ refer to the applicable agreement for further details.
 ; Timing Models                   ; Final                                       ;
 ; Logic utilization (in ALMs)     ; 1 / 32,070 ( < 1 % )                        ;
 ; Total registers                 ; 0                                           ;
-; Total pins                      ; 32 / 457 ( 7 % )                            ;
+; Total pins                      ; 258 / 457 ( 56 % )                          ;
 ; Total virtual pins              ; 0                                           ;
 ; Total block memory bits         ; 0 / 4,065,280 ( 0 % )                       ;
 ; Total DSP Blocks                ; 0 / 87 ( 0 % )                              ;
@@ -67,7 +67,7 @@ refer to the applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 11/19/2022 19:04:19 ;
+; Start date & time ; 12/01/2022 21:24:16 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; finalProject        ;
 +-------------------+---------------------+
@@ -78,7 +78,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+----------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
 +-------------------------------------+----------------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 20271602360813.166890985921588         ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID               ; 49410872846536.166995505509544         ; --            ; --          ; --             ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; On                                     ; --            ; --          ; eda_simulation ;
 ; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                            ; --            ; --          ; eda_simulation ;
 ; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)              ; <None>        ; --          ; --             ;
@@ -99,12 +99,12 @@ refer to the applicable agreement for further details.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:06     ; 1.0                     ; 4783 MB             ; 00:00:15                           ;
-; Fitter               ; 00:00:18     ; 1.0                     ; 6920 MB             ; 00:00:49                           ;
-; Assembler            ; 00:00:04     ; 1.0                     ; 4824 MB             ; 00:00:04                           ;
-; Timing Analyzer      ; 00:00:02     ; 1.0                     ; 5159 MB             ; 00:00:03                           ;
-; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4716 MB             ; 00:00:01                           ;
-; Total                ; 00:00:31     ; --                      ; --                  ; 00:01:12                           ;
+; Analysis & Synthesis ; 00:01:38     ; 1.0                     ; 4965 MB             ; 00:01:47                           ;
+; Fitter               ; 00:00:39     ; 1.0                     ; 7792 MB             ; 00:02:28                           ;
+; Assembler            ; 00:00:07     ; 1.0                     ; 4831 MB             ; 00:00:06                           ;
+; Timing Analyzer      ; 00:00:08     ; 1.0                     ; 5248 MB             ; 00:00:08                           ;
+; EDA Netlist Writer   ; 00:00:02     ; 1.0                     ; 4719 MB             ; 00:00:02                           ;
+; Total                ; 00:02:34     ; --                      ; --                  ; 00:04:31                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -113,11 +113,11 @@ refer to the applicable agreement for further details.
 +----------------------+------------------+------------+------------+----------------+
 ; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
 +----------------------+------------------+------------+------------+----------------+
-; Analysis & Synthesis ; zhz              ; Windows 10 ; 10.0       ; x86_64         ;
-; Fitter               ; zhz              ; Windows 10 ; 10.0       ; x86_64         ;
-; Assembler            ; zhz              ; Windows 10 ; 10.0       ; x86_64         ;
-; Timing Analyzer      ; zhz              ; Windows 10 ; 10.0       ; x86_64         ;
-; EDA Netlist Writer   ; zhz              ; Windows 10 ; 10.0       ; x86_64         ;
+; Analysis & Synthesis ; DESKTOP-GP5O7T1  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter               ; DESKTOP-GP5O7T1  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler            ; DESKTOP-GP5O7T1  ; Windows 10 ; 10.0       ; x86_64         ;
+; Timing Analyzer      ; DESKTOP-GP5O7T1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-GP5O7T1  ; Windows 10 ; 10.0       ; x86_64         ;
 +----------------------+------------------+------------+------------+----------------+
 
 
