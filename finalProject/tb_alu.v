@@ -48,7 +48,7 @@ module tb_alu;
 		$display(A, "   +", B, "   =", out, "; neg = ", neg);
 
 		
-		$display("Testing Subtraction");
+	/*	$display("Testing Subtraction");
 		mode = SUB;
 		A = 9;
 		B = 7;
@@ -61,6 +61,35 @@ module tb_alu;
 		
 		#15;
 		$display(A, "   -", B, "   =", out, "; neg = ", neg);
+		
+		$display("Testing Multiple");
+		mode = MUL;
+		A = 6;
+		B = 9;
+
+		#15;
+		$display(A, "   *", B, "   =", out, "; neg = ", neg);
+
+		
+		A = 60;
+		B = 90;
+		#15;
+		$display(A, "   *", B, "   =", out, "; neg = ", neg);
+		
+		$display("Testing Division");
+		mode = DIV;
+		A = 5;
+		B = 9;
+
+		#15;
+		$display(A, "   /", B, "   =", out, "; neg = ", neg);
+
+		
+		A = 0;
+		B = 90;
+		#15;
+		$display(A, "   /", B, "   =", out, "; neg = ", neg); */
+		
 	end
 
 
