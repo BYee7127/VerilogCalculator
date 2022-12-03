@@ -48,7 +48,7 @@ module tb_alu;
 		$display(A, "   +", B, "   =", out, "; neg = ", neg);
 
 		
-	/*	$display("Testing Subtraction");
+		$display("Testing Subtraction");
 		mode = SUB;
 		A = 9;
 		B = 7;
@@ -88,7 +88,7 @@ module tb_alu;
 		A = 0;
 		B = 90;
 		#15;
-		$display(A, "   /", B, "   =", out, "; neg = ", neg); */
+		$display(A, "   /", B, "   =", out, "; neg = ", neg); 
 		
 	end
 
