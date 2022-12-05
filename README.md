@@ -26,19 +26,21 @@ A recreation of a simple calculator using Verilog. It serves as a means to both 
 </ul>
 <br/>
 <b>Milestone 2:</b>
-To be updated
+Goal Optimization
 <ul>
     <li></li>
     
 </ul>
 <br/>
 <b>Milestone 3:</b>
+RTL Freeeze
 <ul>
     <li></li>
     
 </ul>
 <br/>
 <b>Milestone 4:</b>
+Tape-out Desgn
 <ul>
     <li></li>
     
