@@ -3,9 +3,12 @@
 // Module Name:	FSM
 // Description: 	Finite state machine here
 //
-// Dependencies: 	
+// Dependencies: 	clk: clock signal
+//			reset: reset for intiate the state
+//			instr : instruction set ADD /SUB/MULT/DIV
+//			
 //
-// Comments: 		
+// Comments: 		The output of alu operation depends on state of FSM and write into register.
 //
 //////////////////////////////////////////////////////////////////////////////////
 
