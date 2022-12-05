@@ -3,11 +3,11 @@
 // Description: 	Main file that runs the entire program, like a main function in a C# program.
 //
 // Dependencies: 	clk - clock
-//      					rst - reset
-//					      data - data from the chip interface
-//      					data_clk - clock data from the chip interface
+//      		rst - reset
+//			data - data from the chip interface
+//      		data_clk - clock data from the chip interface
 //
-// Comments: 		  May need more input/outputs; can be determined as project continues.
+// Comments: 		16 bit Output 
 //
 //////////////////////////////////////////////////////////////////////////////////
 
