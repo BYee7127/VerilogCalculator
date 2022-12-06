@@ -12,6 +12,7 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 
+//Author: Haoze Zhang
 
 module FSM(clk, reset, instr, regwrite, wa, aluop, we_a,
 	 LD_mux_en_a, pc_en, ld_pc_en,pc_mux, ra1, ra2, wr_pc);
