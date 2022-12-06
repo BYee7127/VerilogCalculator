@@ -7,6 +7,8 @@
 // Comments: 		
 //
 //////////////////////////////////////////////////////////////////////////////////
+
+//Author: Haoze Zhang
 module regfile #(parameter WIDTH = 16, REGBITS = 4)
                 (input                clk, 
                  input                regwrite, 
