@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Module Name:		datapath
 // Description: 	The datapath should be the module that handles the interactions between
-//               the ALU and register file. It could also be used to communicat between
+//               the ALU and register file. It could also be used to communicate between
 //               the chip and the FPGA.
 //
 // Dependencies: 	clk - clock
